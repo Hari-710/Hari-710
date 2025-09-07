@@ -19,11 +19,9 @@ I believe in learning by doing. That’s why I actively build real-world project
 
 ## 📌 Key Projects
 
-- 🔬 **Multiple Disease Prediction System** – ML + Streamlit app predicting heart disease & diabetes
-- 📊 **Student Performance Dashboard** – Excel + Power BI dashboard with KPIs and drilldowns
-- 📦 **Meesho Sales Analysis** – Sales insights and performance tracking using Excel & Power BI
-- 📈 **S&P 500 Live Stock Dashboard** – Live stock data visualization using `yfinance` + Streamlit
-- 🛒 **E-Commerce Sales Dashboard** – Streamlit app with upload, filters, and charts for business teams
+- **Multiple Disease Prediction System** – ML + Streamlit app predicting heart disease & diabetes
+- **Student Performance Dashboard** – Excel + Power BI dashboard with KPIs and drilldowns
+- **Meesho Sales Analysis** – Sales insights and performance tracking using Excel & Power BI
 
 Check out my pinned repos for the above projects!
 
